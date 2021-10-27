@@ -39,7 +39,6 @@ public class Person {
 	}
 
 	public boolean equals(Object obj) {
-		// TODO Auto-generated method stub
 		return false;
 	}
 }
