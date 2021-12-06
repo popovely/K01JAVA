@@ -51,7 +51,7 @@ public class QuUpDownGame {
 		//컴퓨터는 1~100사이의 숫자 하나를 생성
 		int com = random.nextInt(100) + 1;
 		//디버깅을 위한 출력
-//		System.out.println("\t컴퓨터 : "+ com);
+		System.out.println("\t컴퓨터 : "+ com);
 		while(true) {
 			boolean success = false;
 			//사용자로부터 입력받음
